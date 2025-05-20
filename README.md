@@ -26,9 +26,9 @@ This project uses **SQL-based data analysis to answer crucial business questions
 - How do weekly and monthly trends impact inventory planning?
 - How can we segment customers by their preferences?
 
-## 📁 Project Structure
+##  Project Structure
 
-#### 🧠 Sample Query Snippet
+####  Sample Query Snippet
 
 ```sql
 
@@ -140,11 +140,11 @@ Insights are translated into action items to maximize sales, minimize waste, and
 ### — Sudeshna Dey
 ###  — Contact & Contributions
 
-#### 📧 Email: sudeshnadey1000@gmail.com
-#### 🔗 LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
+####  Email: sudeshnadey1000@gmail.com
+####  LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
  Have feedback or suggestions? I'm always open to improving and collaborating!
  
 If you find this project helpful:
-⭐ Give it a star
+Give it a star
 Thanks for visiting — and happy data analyzing!
 
